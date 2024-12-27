@@ -4,6 +4,8 @@
 
 This is a simple tool to categorize links. Paste your links in the left box and click on the "Categorize" button. The links will be split into 2 types: research links and other links. Research links are basically the links that you want to read or use for research. Other links are the remaining links. To get the current open links in my browser session I like to use the [Session Buddy](https://sessionbuddy.com/) extension.
 
+I created this to help me manage my open tabs. I usually have a lot of tabs open, and I don't want to lose the links that I want to read or use for research. This tool helps me to split the links that I need to keep from the links that I can read it lates or discard.
+
 ## Site
 
 https://categorizelinks.vercel.app/
